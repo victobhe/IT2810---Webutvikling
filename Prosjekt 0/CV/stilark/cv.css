@@ -67,13 +67,7 @@ div.gallary img{
     width: 100%;
     height: auto;
 }
-div.gallary desc {
-    padding: 15px;
-    text-align: center;
-}
-div.gallary :hover{
-    border: 1px solid #777;
-}
+
 
 #Sponsorer{
     text-align: center;
